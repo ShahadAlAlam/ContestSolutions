@@ -96,3 +96,40 @@ A - Watermelon
 </table>
 </div><h3 style="margin: 20px 20px 0 20px">Note</h3><div style="padding: 0px 20px 20px;"><p>In the first sample Petya and Vasya are sure that they know how to solve the first problem and all three of them know how to solve the second problem. That means that they will write solutions for these problems. Only Petya is sure about the solution for the third problem, but that isn't enough, so the friends won't take it. </p><p>In the second sample the friends will only implement the second problem, as Vasya and Tonya are sure about the solution.</p></div>
   </dd>
+
+<h2 id="problem-title">D - Next Round</h2><dd style="padding-top: 20px"><div style="padding: 0px 20px 20px;"><p>"Contestant who earns a score equal to or greater than the <span class="tex-span"><i>k</i></span>-th place finisher's score will advance to the next round, as long as the contestant earns a positive score..." — an excerpt from contest rules.</p><p>A total of <span class="tex-span"><i>n</i></span> participants took part in the contest (<span class="tex-span"><i>n</i> ≥ <i>k</i></span>), and you already know their scores. Calculate how many participants will advance to the next round.</p></div><h3 style="margin: 20px 20px 0 20px">Input</h3><div style="padding: 0px 20px 20px;"><p>The first line of the input contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>k</i></span> (<span class="tex-span">1 ≤ <i>k</i> ≤ <i>n</i> ≤ 50</span>) separated by a single space.</p><p>The second line contains <span class="tex-span"><i>n</i></span> space-separated integers <span class="tex-span"><i>a</i><sub class="lower-index">1</sub>, <i>a</i><sub class="lower-index">2</sub>, ..., <i>a</i><sub class="lower-index"><i>n</i></sub></span> (<span class="tex-span">0 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub> ≤ 100</span>), where <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span> is the score earned by the participant who got the <span class="tex-span"><i>i</i></span>-th place. The given sequence is non-increasing (that is, for all <span class="tex-span"><i>i</i></span> from <span class="tex-span">1</span> to <span class="tex-span"><i>n</i> - 1</span> the following condition is fulfilled: <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub> ≥ <i>a</i><sub class="lower-index"><i>i</i> + 1</sub></span>).</p></div><h3 style="margin: 20px 20px 0 20px">Output</h3><div style="padding: 0px 20px 20px;"><p>Output the number of participants who advance to the next round.</p></div><h3 style="margin: 20px 20px 0 20px">Sample 1</h3><div style="padding: 0px 20px 20px;"><table class="vjudge_sample">
+<thead>
+  <tr>
+    <th>Input<span class="copier">copy</span></th>
+    <th>Output<span class="copier">copy</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><pre>8 5
+10 9 8 7 7 7 5 5
+</pre></td>
+    <td><pre>6
+</pre></td>
+  </tr>
+</tbody>
+</table>
+</div><h3 style="margin: 20px 20px 0 20px">Sample 2</h3><div style="padding: 0px 20px 20px;"><table class="vjudge_sample">
+<thead>
+  <tr>
+    <th>Input<span class="copier">copy</span></th>
+    <th>Output<span class="copier">copy</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><pre>4 2
+0 0 0 0
+</pre></td>
+    <td><pre>0
+</pre></td>
+  </tr>
+</tbody>
+</table>
+</div><h3 style="margin: 20px 20px 0 20px">Note</h3><div style="padding: 0px 20px 20px;"><p>In the first example the participant on the 5th place earned 7 points. As the participant on the 6th place also earned 7 points, there are 6 advancers.</p><p>In the second example nobody got a positive score.</p></div>
+</dd>
