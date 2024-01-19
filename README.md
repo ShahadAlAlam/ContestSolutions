@@ -94,9 +94,5 @@ A - Watermelon
   </tr>
 </tbody>
 </table>
-</div><h3 style="margin: 20px 20px 0 20px">Note</h3><div style="padding: 0px 20px 20px;"><p>In the first sample Petya and Vasya are sure that they know how to solve the first problem and all three of them know how to solve the second problem. That means that they will write solutions for these problems. Only Petya is sure about the solution for the third problem, but that isn't enough, so the friends won't take it. </p><p>In the second sample the friends will only implement the second problem, as Vasya and Tonya are sure about the solution.</p></div><h3 style="margin: 20px 20px 0 20px">Sponsor</h3><div><!-- Prob desc tail -->
-<ins class="adsbygoogle" style="display: block; height: 90px;" data-ad-client="ca-pub-9098591903020457" data-ad-slot="1011472145" data-ad-format="horizontal" data-full-width-responsive="true" data-adsbygoogle-status="done"><div id="aswift_1_host" style="border: none; height: 90px; width: 799px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block;"></div></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div></dd>
+</div><h3 style="margin: 20px 20px 0 20px">Note</h3><div style="padding: 0px 20px 20px;"><p>In the first sample Petya and Vasya are sure that they know how to solve the first problem and all three of them know how to solve the second problem. That means that they will write solutions for these problems. Only Petya is sure about the solution for the third problem, but that isn't enough, so the friends won't take it. </p><p>In the second sample the friends will only implement the second problem, as Vasya and Tonya are sure about the solution.</p></div>
+  </dd>
