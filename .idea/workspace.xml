@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StrangeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/publicContest/GetATree.java" afterDir="false" />
+    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="vjudge test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BWordCapitalization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DStonesOnTheTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "G:/Courses Flutter DIRT NODE JS/Pondit JAVA/TestProjects/ContestSolutions/pom.xml",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Courses Flutter DIRT NODE JS/Pondit JAVA/TestProjects/ContestSolutions/pom.xml&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GetATree">
+  <component name="RunManager" selected="Application.DStonesOnTheTable">
     <configuration name="BDominoPiling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.BDominoPiling" />
       <module name="ContestSolutions" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CBeautifulMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CBeautifulMatrix" />
+    <configuration name="BWordCapitalization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BWordCapitalization" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DPetyaAndStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DPetyaAndStrings" />
+    <configuration name="DStonesOnTheTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DStonesOnTheTable" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DStonesOnTheTable" />
+        <item itemvalue="Application.BWordCapitalization" />
         <item itemvalue="Application.GetATree" />
         <item itemvalue="Application.StrangeSum" />
         <item itemvalue="Application.BDominoPiling" />
-        <item itemvalue="Application.DPetyaAndStrings" />
-        <item itemvalue="Application.CBeautifulMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,10 @@
       <workItem from="1705667764910" duration="602000" />
       <workItem from="1706198928569" duration="4684000" />
       <workItem from="1706244434763" duration="30000" />
-      <workItem from="1706253641349" duration="11186000" />
+      <workItem from="1706253641349" duration="11495000" />
+      <workItem from="1706278214325" duration="657000" />
+      <workItem from="1706803154203" duration="1740000" />
+      <workItem from="1706858122284" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -153,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706206757025</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vjudge test">
+      <created>1706277261684</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706277261684</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +183,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="contest 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="contest 2" />
+    <MESSAGE value="vjudge test" />
+    <option name="LAST_COMMIT_MESSAGE" value="vjudge test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
