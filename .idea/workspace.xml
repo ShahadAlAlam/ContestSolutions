@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="1732 solution">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ABearAndBigBrother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BElephant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CSoldierAndBananas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/FindTheHighestAltitude_1732.java" afterDir="false" />
+    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 4 solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AWrongSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BNearlyLuckyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CAntonAndDanik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DTranslation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +50,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DWord">
-    <configuration name="ABearAndBigBrother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ABearAndBigBrother" />
+  <component name="RunManager" selected="Application.DTranslation">
+    <configuration name="AWrongSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AWrongSubtraction" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BElephant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BElephant" />
+    <configuration name="BNearlyLuckyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BNearlyLuckyNumber" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +77,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CSoldierAndBananas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CSoldierAndBananas" />
+    <configuration name="CAntonAndDanik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CAntonAndDanik" />
+      <module name="ContestSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DTranslation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DTranslation" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -104,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTheHighestAltitude_1732" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.leetcode.FindTheHighestAltitude_1732" />
-      <module name="ContestSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DTranslation" />
+        <item itemvalue="Application.CAntonAndDanik" />
+        <item itemvalue="Application.BNearlyLuckyNumber" />
+        <item itemvalue="Application.AWrongSubtraction" />
         <item itemvalue="Application.DWord" />
-        <item itemvalue="Application.CSoldierAndBananas" />
-        <item itemvalue="Application.BElephant" />
-        <item itemvalue="Application.ABearAndBigBrother" />
-        <item itemvalue="Application.FindTheHighestAltitude_1732" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +146,11 @@
       <workItem from="1706877527050" duration="17000" />
       <workItem from="1707236857827" duration="3707000" />
       <workItem from="1707318182018" duration="1559000" />
-      <workItem from="1707408045324" duration="2066000" />
+      <workItem from="1707408045324" duration="3118000" />
+      <workItem from="1707495635415" duration="193000" />
+      <workItem from="1707500647234" duration="1161000" />
+      <workItem from="1707586963210" duration="22000" />
+      <workItem from="1708012984378" duration="2418000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -184,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707240253956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="contest 4 solved">
+      <created>1707413854177</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707413854177</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +217,8 @@
     <MESSAGE value="vjudge test" />
     <MESSAGE value="643 solution" />
     <MESSAGE value="1732 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="1732 solution" />
+    <MESSAGE value="contest 4 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="contest 4 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -261,6 +272,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/leetcode/MaximumAverageSubarrayI_643.java</url>
           <line>17</line>
           <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DWord.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
