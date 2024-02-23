@@ -23,7 +23,7 @@ public class DBeautifulYear {
             }
         }
         if(found)
-        System.out.println(ans);
+            System.out.println(Integer.parseInt(ans)+n);
         else System.out.println("");
 
     }

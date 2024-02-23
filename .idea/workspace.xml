@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 5 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ATram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BVanyaAndFence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CQueueAtTheSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/APresents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BMagnets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CGeorgeAndAccommodation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DFedorAndNewGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EInSearchOfAnEasyProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/FindTheHighestAltitude_1732.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/FindTheHighestAltitude_1732.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2b8QnporDE5JLzgMexIhTVIJd2R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,10 +43,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APresents.executor": "Run",
     "Application.ATram.executor": "Debug",
+    "Application.BMagnets.executor": "Debug",
     "Application.BVanyaAndFence.executor": "Debug",
+    "Application.CGeorgeAndAccommodation.executor": "Debug",
     "Application.CQueueAtTheSchool.executor": "Debug",
     "Application.DBeautifulYear.executor": "Debug",
+    "Application.DFedorAndNewGame.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -64,9 +70,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DBeautifulYear">
-    <configuration name="ATram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ATram" />
+  <component name="RunManager" selected="Application.EInSearchOfAnEasyProblem">
+    <configuration name="APresents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.APresents" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BVanyaAndFence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BVanyaAndFence" />
+    <configuration name="BMagnets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BMagnets" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CQueueAtTheSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CQueueAtTheSchool" />
+    <configuration name="CGeorgeAndAccommodation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CGeorgeAndAccommodation" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DBeautifulYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DBeautifulYear" />
+    <configuration name="DFedorAndNewGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DFedorAndNewGame" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DTranslation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DTranslation" />
+    <configuration name="EInSearchOfAnEasyProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.EInSearchOfAnEasyProblem" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DBeautifulYear" />
-        <item itemvalue="Application.CQueueAtTheSchool" />
-        <item itemvalue="Application.BVanyaAndFence" />
-        <item itemvalue="Application.ATram" />
-        <item itemvalue="Application.DTranslation" />
+        <item itemvalue="Application.EInSearchOfAnEasyProblem" />
+        <item itemvalue="Application.DFedorAndNewGame" />
+        <item itemvalue="Application.CGeorgeAndAccommodation" />
+        <item itemvalue="Application.BMagnets" />
+        <item itemvalue="Application.APresents" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +178,9 @@
       <workItem from="1707500647234" duration="1161000" />
       <workItem from="1707586963210" duration="22000" />
       <workItem from="1708012984378" duration="2510000" />
-      <workItem from="1708619090215" duration="7312000" />
+      <workItem from="1708619090215" duration="7331000" />
+      <workItem from="1708666770858" duration="2769000" />
+      <workItem from="1708705836385" duration="2608000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -223,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708015422548</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="contest 5 solved">
+      <option name="closed" value="true" />
+      <created>1708636908652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708636908652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
