@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 5 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/APresents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BMagnets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CGeorgeAndAccommodation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DFedorAndNewGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EInSearchOfAnEasyProblem.java" afterDir="false" />
+    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 23/02/2024 solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AUltraFastMathematician.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BIsYourHorseshoeOnTheOtherHoof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CHulk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DDivisibilityProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DPetyaPresents.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DBeautifulYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/leetcode/FindTheHighestAltitude_1732.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/leetcode/FindTheHighestAltitude_1732.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +43,25 @@
   "keyToString": {
     "Application.APresents.executor": "Run",
     "Application.ATram.executor": "Debug",
+    "Application.AUltraFastMathematician.executor": "Debug",
+    "Application.BIsYourHorseshoeOnTheOtherHoof.executor": "Debug",
     "Application.BMagnets.executor": "Debug",
     "Application.BVanyaAndFence.executor": "Debug",
     "Application.CGeorgeAndAccommodation.executor": "Debug",
+    "Application.CHulk.executor": "Run",
     "Application.CQueueAtTheSchool.executor": "Debug",
     "Application.DBeautifulYear.executor": "Debug",
+    "Application.DDivisibilityProblem.executor": "Debug",
     "Application.DFedorAndNewGame.executor": "Debug",
+    "Application.EInSearchOfAnEasyProblem.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "G:/Courses Flutter DIRT NODE JS/Pondit JAVA/TestProjects/ContestSolutions/pom.xml",
+    "last_opened_file_path": "D:/PRIDESYS MIDDLEWIRE/eRecruitment_Portal_BackEnd/erecruitment_portal_backend/pom.xml",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +75,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EInSearchOfAnEasyProblem">
+  <component name="RunManager" selected="Application.DDivisibilityProblem">
     <configuration name="APresents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.APresents" />
       <module name="ContestSolutions" />
@@ -84,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BMagnets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BMagnets" />
+    <configuration name="AUltraFastMathematician" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AUltraFastMathematician" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CGeorgeAndAccommodation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CGeorgeAndAccommodation" />
+    <configuration name="BIsYourHorseshoeOnTheOtherHoof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BIsYourHorseshoeOnTheOtherHoof" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DFedorAndNewGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DFedorAndNewGame" />
+    <configuration name="CHulk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CHulk" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EInSearchOfAnEasyProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.EInSearchOfAnEasyProblem" />
+    <configuration name="DDivisibilityProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DDivisibilityProblem" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -138,10 +143,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EInSearchOfAnEasyProblem" />
-        <item itemvalue="Application.DFedorAndNewGame" />
-        <item itemvalue="Application.CGeorgeAndAccommodation" />
-        <item itemvalue="Application.BMagnets" />
+        <item itemvalue="Application.DDivisibilityProblem" />
+        <item itemvalue="Application.CHulk" />
+        <item itemvalue="Application.BIsYourHorseshoeOnTheOtherHoof" />
+        <item itemvalue="Application.AUltraFastMathematician" />
         <item itemvalue="Application.APresents" />
       </list>
     </recent_temporary>
@@ -180,7 +185,12 @@
       <workItem from="1708012984378" duration="2510000" />
       <workItem from="1708619090215" duration="7331000" />
       <workItem from="1708666770858" duration="2769000" />
-      <workItem from="1708705836385" duration="2608000" />
+      <workItem from="1708705836385" duration="3570000" />
+      <workItem from="1708774977072" duration="1285000" />
+      <workItem from="1709222561512" duration="1401000" />
+      <workItem from="1709281808860" duration="13000" />
+      <workItem from="1709282777549" duration="84000" />
+      <workItem from="1709827208592" duration="3753000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -239,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708636908652</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="contest 23/02/2024 solved">
+      <option name="closed" value="true" />
+      <created>1708708599728</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708708599728</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +282,8 @@
     <MESSAGE value="1732 solution" />
     <MESSAGE value="contest 4 solved" />
     <MESSAGE value="contest 5 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="contest 5 solved" />
+    <MESSAGE value="contest 23/02/2024 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="contest 23/02/2024 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -333,6 +352,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/BVanyaAndFence.java</url>
           <line>15</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DFedorAndNewGame.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
