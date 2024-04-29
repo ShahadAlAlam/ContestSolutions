@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 07/03/2024 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AIWannaBeTheGuy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AIWannaBeTheGuy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BArrivalOfTheGeneral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CPangramChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DInsomniaCure.java" afterDir="false" />
+    <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 25/04/2024 solved">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RateLimitedCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +68,7 @@
     "Application.DFedorAndNewGame.executor": "Debug",
     "Application.DInsomniaCure.executor": "Debug",
     "Application.EInSearchOfAnEasyProblem.executor": "Debug",
+    "Application.RateLimitedCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -93,7 +90,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DInsomniaCure">
+  <component name="RunManager" selected="Application.RateLimitedCalculator">
     <configuration name="AIWannaBeTheGuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.AIWannaBeTheGuy" />
       <module name="ContestSolutions" />
@@ -133,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DDivisibilityProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DDivisibilityProblem" />
-      <module name="ContestSolutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DInsomniaCure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.DInsomniaCure" />
       <module name="ContestSolutions" />
@@ -159,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RateLimitedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.RateLimitedCalculator" />
+      <module name="ContestSolutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RateLimitedCalculator" />
         <item itemvalue="Application.DInsomniaCure" />
         <item itemvalue="Application.CPangramChecker" />
         <item itemvalue="Application.BArrivalOfTheGeneral" />
         <item itemvalue="Application.AIWannaBeTheGuy" />
-        <item itemvalue="Application.DDivisibilityProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +200,9 @@
       <workItem from="1709282777549" duration="84000" />
       <workItem from="1709827208592" duration="3753000" />
       <workItem from="1709886215313" duration="740000" />
-      <workItem from="1714062864585" duration="3813000" />
+      <workItem from="1714062864585" duration="3973000" />
+      <workItem from="1714066912405" duration="19000" />
+      <workItem from="1714404545488" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -278,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709886283264</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="contest 25/04/2024 solved">
+      <option name="closed" value="true" />
+      <created>1714066836059</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714066836059</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +312,8 @@
     <MESSAGE value="contest 5 solved" />
     <MESSAGE value="contest 23/02/2024 solved" />
     <MESSAGE value="contest 07/03/2024 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="contest 07/03/2024 solved" />
+    <MESSAGE value="contest 25/04/2024 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="contest 25/04/2024 solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
