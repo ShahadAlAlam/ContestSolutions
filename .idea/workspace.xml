@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e724ac-fe13-4648-9ce7-28b9140c0057" name="Changes" comment="contest 02/05/2024 solved">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ACandiesAndTwoSisters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AILoveUsername.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BAmusingJoke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BNewYearAndHurry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CFoxAndSnake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CFoxAndSnakeNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CSumOfRoundNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DPoliceRecruits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DTheNewYearMeetingFriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ARemoveSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BYetAnotherTwoIntegersProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DAgainTwentyFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/testClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,30 +61,39 @@
     "Application.AILoveUsername.executor": "Run",
     "Application.AIWannaBeTheGuy.executor": "Debug",
     "Application.APresents.executor": "Run",
+    "Application.ARemoveSmallest.executor": "Run",
     "Application.ATram.executor": "Debug",
     "Application.AUltraFastMathematician.executor": "Debug",
+    "Application.AVasyaTheHipster.executor": "Run",
     "Application.BAmusingJoke.executor": "Debug",
     "Application.BArrivalOfTheGeneral.executor": "Debug",
+    "Application.BBuyAShovel.executor": "Run",
     "Application.BIsYourHorseshoeOnTheOtherHoof.executor": "Debug",
     "Application.BMagnets.executor": "Debug",
     "Application.BNewYearAndHurry.executor": "Run",
     "Application.BVanyaAndFence.executor": "Debug",
+    "Application.BYetAnotherTwoIntegersProblem.executor": "Run",
     "Application.CFoxAndSnake.executor": "Run",
     "Application.CFoxAndSnakeNext.executor": "Run",
     "Application.CGeorgeAndAccommodation.executor": "Debug",
     "Application.CHulk.executor": "Run",
     "Application.CPangramChecker.executor": "Debug",
     "Application.CQueueAtTheSchool.executor": "Debug",
+    "Application.CRestoringThreeNumbers.executor": "Run",
+    "Application.CSum.executor": "Run",
     "Application.CSumOfRoundNumbers.executor": "Run",
+    "Application.DAgainTwentyFive.executor": "Debug",
     "Application.DBeautifulYear.executor": "Debug",
     "Application.DDivisibilityProblem.executor": "Debug",
     "Application.DFedorAndNewGame.executor": "Debug",
     "Application.DGames.executor": "Run",
     "Application.DInsomniaCure.executor": "Debug",
     "Application.DPoliceRecruits.executor": "Run",
+    "Application.DReverseASubstring.executor": "Run",
     "Application.DTheNewYearMeetingFriends.executor": "Run",
     "Application.EInSearchOfAnEasyProblem.executor": "Debug",
     "Application.RateLimitedCalculator.executor": "Run",
+    "Application.testClass.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -110,9 +115,9 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DTheNewYearMeetingFriends">
-    <configuration name="AILoveUsername" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.AILoveUsername" />
+  <component name="RunManager" selected="Application.DAgainTwentyFive">
+    <configuration name="ARemoveSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ARemoveSmallest" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BAmusingJoke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BAmusingJoke" />
+    <configuration name="BYetAnotherTwoIntegersProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BYetAnotherTwoIntegersProblem" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BNewYearAndHurry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.BNewYearAndHurry" />
+    <configuration name="CSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CSum" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -150,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CSumOfRoundNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CSumOfRoundNumbers" />
+    <configuration name="DAgainTwentyFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DAgainTwentyFive" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -163,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DTheNewYearMeetingFriends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.DTheNewYearMeetingFriends" />
+    <configuration name="testClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.testClass" />
       <module name="ContestSolutions" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DTheNewYearMeetingFriends" />
-        <item itemvalue="Application.BNewYearAndHurry" />
-        <item itemvalue="Application.CSumOfRoundNumbers" />
-        <item itemvalue="Application.AILoveUsername" />
-        <item itemvalue="Application.BAmusingJoke" />
+        <item itemvalue="Application.DAgainTwentyFive" />
+        <item itemvalue="Application.CSum" />
+        <item itemvalue="Application.BYetAnotherTwoIntegersProblem" />
+        <item itemvalue="Application.ARemoveSmallest" />
+        <item itemvalue="Application.testClass" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +233,10 @@
       <workItem from="1715265418226" duration="7301000" />
       <workItem from="1715329995593" duration="12000" />
       <workItem from="1715870501144" duration="3892000" />
+      <workItem from="1715924371316" duration="607000" />
+      <workItem from="1716477844433" duration="3862000" />
+      <workItem from="1716559828977" duration="117000" />
+      <workItem from="1717079142941" duration="7272000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1705645169739</created>
@@ -326,7 +335,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714713901111</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="contest 02/05/2024 solved">
+      <option name="closed" value="true" />
+      <created>1715924506774</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1715924506774</updated>
+    </task>
+    <task id="LOCAL-00015" summary="contest 02/05/2024 solved">
+      <option name="closed" value="true" />
+      <created>1716482464492</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716482464492</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
